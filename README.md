@@ -1,0 +1,1 @@
+Prebuilt of https://github.com/safe-global/safe-wallet-monorepo for https://github.com/nhancv/safe-infrastructure localhost setup
