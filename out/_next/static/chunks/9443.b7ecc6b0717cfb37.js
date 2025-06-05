@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9443],{9045:(e,i,n)=>{n.d(i,{x:()=>r});function r(e){return{formatters:void 0,fees:void 0,serializers:void 0,...e}}},39443:(e,i,n)=>{n.d(i,{defineChain:()=>r.x,extractChain:()=>t});var r=n(9045);function t({chains:e,id:i}){return e.find(e=>e.id===i)}}}]);
+//# sourceMappingURL=9443.b7ecc6b0717cfb37.js.map

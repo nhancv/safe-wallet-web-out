@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://_N_E/src/components/tx-flow/flows/CancelRecovery/styles.module.css"],"names":[],"mappings":"AAAA,sBACE,UACF,CAEA,yBACE,sBACE,UACF,CACF","file":"static/css/6fe21e5e0fbf3a74.css","sourcesContent":[".button {\n  width: 100%;\n}\n\n@media (min-width: 600px) {\n  .button {\n    width: auto;\n  }\n}\n"],"sourceRoot":"","ignoreList":[]}

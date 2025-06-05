@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://_N_E/src/components/common/WidgetDisclaimer/styles.module.css"],"names":[],"mappings":"AAAA,2EAEE,gBACF,CAEA,iCACE,kBACF","file":"static/css/48b6c13dd271d593.css","sourcesContent":[".disclaimerContainer p,\n.disclaimerContainer h3 {\n  line-height: 24px;\n}\n\n.disclaimerInner p {\n  text-align: justify;\n}\n"],"sourceRoot":"","ignoreList":[]}
